@@ -218,3 +218,10 @@ The secp256k1 package above is maintained using the same [Visual Studio template
 * [libbitcoin/secp256k1/msvc-version2](https://github.com/libbitcoin/secp256k1/tree/msvc-version2)
 
 This change is properly accomplished by disabling the "NuGet Dependencies" in the Visual Studio properties user interface and then importing `secp256k1.import.props`, which references `secp256k1.import.xml`.
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
